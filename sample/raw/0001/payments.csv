@@ -1,0 +1,3 @@
+payment_id,order_id,payment_date,payment_status,amount,updated_at
+1,101,2026-10-01,SUCCESS,70.00,2026-10-01T12:00:00Z
+2,102,2026-10-01,FAILED,10.00,2026-10-01T12:00:00Z

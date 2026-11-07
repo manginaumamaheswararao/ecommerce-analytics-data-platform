@@ -1,0 +1,3 @@
+order_id,customer_id,order_date,city,state,order_status,updated_at
+101,1,2026-10-01,Hyderabad,Telangana,COMPLETE,2026-10-01T12:00:00Z
+102,2,2026-10-01,Kochi,Kerala,PENDING,2026-10-01T12:00:00Z
